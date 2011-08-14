@@ -1,0 +1,11 @@
+> This is a Quix Command File
+>
+> For the syntax of this file, please refer to http://quixapp.com/syntax/
+>
+
+@My commands
+d5 	http://api.drupal.org/api/search/5/%s 	Search the Drupal 5 API
+d6 	http://api.drupal.org/api/search/6/%s 	Search the Drupal 6 API
+d7 	http://api.drupal.org/api/search/7/%s 	Search the Drupal 7 API
+d8 	http://api.drupal.org/api/search/8/%s 	Search the Drupal 8 API
+d 	http://dgo.to/%s 	Go to a Drupal project page
